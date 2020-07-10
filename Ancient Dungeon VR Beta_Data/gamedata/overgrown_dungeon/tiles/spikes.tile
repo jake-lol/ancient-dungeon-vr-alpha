@@ -1,0 +1,1 @@
+{"identifier":"spikes","groupId":"","tileObjects":[{"name":"spikes_moving","pos":{"x":1.0,"y":0.0,"z":-1.0},"rot":{"x":0.0,"y":180.00003051757813,"z":0.0}},{"name":"spikes_moving","pos":{"x":1.0,"y":0.0,"z":1.0},"rot":{"x":0.0,"y":180.00003051757813,"z":0.0}}]}
